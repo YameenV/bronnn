@@ -1,0 +1,24 @@
+
+# Specify Python version
+# python==3.10.5
+
+# FastAPI and related dependencies
+fastapi
+uvicorn
+
+# Logging
+python-dotenv
+
+# Pydantic for data validation
+pydantic
+
+# Web scraping
+beautifulsoup4
+requests
+
+
+langchain
+langchain_groq
+langchain_openai
+yfinance
+joblib
