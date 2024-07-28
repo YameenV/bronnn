@@ -14,7 +14,8 @@ The **Bronn Stock Analysis and Prediction Service** operates as an advanced chat
 
 ## Project Overview Video
 
-![Watch the video](./bronn demo video.mp4)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/G419eYNLg54)](https://youtu.be/G419eYNLg54?si=66oMRAgoN7SLRJB1)
+
 
 ## Architecture Diagram
 
